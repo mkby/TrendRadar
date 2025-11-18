@@ -103,6 +103,8 @@ platforms:
  # === 科技类平台 ===
   - id: "ithome"
     name: "IT之家"
+  - id: "_36kr"
+    name: "36kr"
   - id: "juejin"
     name: "掘金"
   - id: "hackernews"
