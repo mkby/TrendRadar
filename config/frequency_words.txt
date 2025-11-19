@@ -1,21 +1,19 @@
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
+索尼
+大疆
+DJI
+摄影
 
-
-新能源汽车
+新能源
 蔚来
 理想
 小鹏
 极氪
-特斯拉
 
 自动驾驶
 
-大疆
-DJI
 
 宇树
 王兴兴
@@ -31,14 +29,11 @@ bytedance
 特斯拉
 马斯克
 
-微软
-Microsoft
 
 英伟达
 NVIDIA
 黄仁勋
 
-AMD
 
 谷歌
 google
@@ -53,17 +48,13 @@ claude
 Anthropic
 
 iphone
-ipad
-mac
-ios
 
 ai
 !gai
 人工智能
-
 机器人
 
-国内新闻
+国内
 中国
 
 美国
